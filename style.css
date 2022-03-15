@@ -133,13 +133,14 @@ p {
     color: var(--color-cyan);
     text-transform: uppercase;
     font-weight: 500;
+    
 }
 
 /* content bottom image */
 .content-bottom img {
     display: block;
-    width:15px;
-    height:auto;
+/*     width:15px; */
+/*     height:auto; */
 /*     max-height: fit-content; */
     /* height: 10px; */
 }
